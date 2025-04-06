@@ -10,3 +10,8 @@
 - `docker compose up -d` 을 실행하여 테스트 환경을 준비하였다.
 - `http://localhost:8080/admin` 을 실행하여 관리자페이지에 대한 엑세스가 차단되어 있는지 확인한다.
 - `http://localhost:8080/admin/%0atest` 을 실행하여 관리자 페이지에 접근한다.
+
+![image](https://github.com/user-attachments/assets/47f67420-c311-44b9-9302-e082ea46ae5d)
+![image](https://github.com/user-attachments/assets/ba19ba01-0f51-4b93-99bc-d3855b7a7097)
+취약한 환경을 구성하였다.
+
